@@ -2,7 +2,7 @@
   include 'navbar01.php';
 ?>
 
-	<div class="container">
+	<div class="container-unlimited">
         <h1 class="text-center pt-4"><span class="text-primary">Transaction History</span> </h1>        
        <br>
 
